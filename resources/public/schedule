@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="index">
+  <meta name="keywords" content="國學院大學,國學院,国学院大学,国学院,相撲部,相撲同好会,相撲,國學院大學相撲同好会ぴょん,国技館,新入部員募集,皇典講究所">
+  <title>國學院大學相撲部</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="shortcut icon" href="favicon.svg">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link href="css/screen.css" rel="stylesheet" type="text/css">
+  <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="/assets/slick/slick.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css" media="screen" />
+  <link href="/assets/lightGalley/css/lightgallery.min.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <!--[if lt IE 8]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+  <noscript>表示するにはjavascriptを有効にしてください。</noscript>
+  <div id="app"/>
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-62234251-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <script>__REACT_DEVTOOLS_GLOBAL_HOOK__ = parent.__REACT_DEVTOOLS_GLOBAL_HOOK__</script>
+  <script src="/assets/jquery/jquery-2.1.4.min.js"></script>
+  <script src="/assets/jquery.inview/jquery.inview.min.js"></script>
+  <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/assets/slick/slick.min.js"></script>
+  <script src="/assets/lightGalley/js/lightgallery.min.js"></script>
+  <script src="/assets/lightGalley/js/lg-fullscreen.min.js"></script>
+  <script src="js/compiled/app.js"></script>
+  <script>kokugakuinsumo.core.main();</script>
+</body>
+</html>
